@@ -2,8 +2,9 @@
   "name": "caps-react",
   "version": "1.0.0",
   "description": "This is E-learning website by CAPS",
-  "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build inex.html",
     "test": "jest"
   },
   "repository": {
@@ -18,6 +19,11 @@
   },
   "homepage": "https://github.com/jsneham/caps-react#readme",
   "devDependencies": {
-    "parcel": "^2.9.3"
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
