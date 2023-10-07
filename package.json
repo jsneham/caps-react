@@ -1,0 +1,23 @@
+{
+  "name": "caps-react",
+  "version": "1.0.0",
+  "description": "This is E-learning website by CAPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsneham/caps-react.git"
+  },
+  "keywords": [],
+  "author": "Sneha Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsneham/caps-react/issues"
+  },
+  "homepage": "https://github.com/jsneham/caps-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
